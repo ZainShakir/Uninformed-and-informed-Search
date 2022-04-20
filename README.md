@@ -1,4 +1,4 @@
-# Uninformed-and-informed-Search
+# Uninformed-and-informed-Search-and-Genetics-Algorithm
 Following are the strategies that are implemented. 
 a) Breadth first search 
 b) Uniform cost search 
